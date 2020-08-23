@@ -2,6 +2,8 @@ import React from "react";
 import doggy from "../img/1.jpg";
 
 const Avatar = ({ size, type, sides }) => {
+  // console.log(size);
+
   return (
     <div className="container rounded">
       <img className={`${size} ${type}`} src={doggy} alt="little white doggy" />
