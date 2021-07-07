@@ -1,0 +1,14 @@
+[
+  { "size": "S", "type": "square", "sides": "30x30" },
+  { "size": "S", "type": "rounded", "sides": "30x30" },
+  { "size": "S", "type": "circle", "sides": "30x30" },
+  { "size": "M", "type": "square", "sides": "60x60" },
+  { "size": "M", "type": "rounded", "sides": "60x60" },
+  { "size": "M", "type": "circle", "sides": "60x60" },
+  { "size": "L", "type": "square", "sides": "120x120" },
+  { "size": "L", "type": "rounded", "sides": "120x120" },
+  { "size": "L", "type": "circle", "sides": "120x120" },
+  { "size": "XL", "type": "square", "sides": "200x200" },
+  { "size": "XL", "type": "rounded", "sides": "200x200" },
+  { "size": "XL", "type": "circle", "sides": "200x200" }
+]
